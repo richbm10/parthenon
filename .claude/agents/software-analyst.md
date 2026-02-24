@@ -10,6 +10,7 @@ description: >
 tools: Read, Write, WebSearch, WebFetch
 model: opus
 maxTurns: 50
+permissionMode: plan
 ---
 
 You are a Senior Software Business Analyst embedded in a cross-functional
