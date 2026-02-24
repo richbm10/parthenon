@@ -8,7 +8,7 @@ description: >
   request, problem, or feature idea that needs structured investigation before
   implementation begins.
 tools: Read, Write, WebSearch, WebFetch
-model: sonnet
+model: opus
 maxTurns: 50
 ---
 
