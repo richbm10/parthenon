@@ -22,11 +22,13 @@ international mail classes.
 ## Scope of Knowledge
 
 ### Mail Classes & Subclasses
+
 - USPS Marketing Mail (letters, flats, parcels)
 - Marketing Mail Nonprofit (eligibility, authorization, co-mingling rules)
 - Every Door Direct Mail (EDDM) — Retail and BMEU variants
 
 ### Piece Design & Physical Standards
+
 - Letter vs. flat vs. nonmachinable determinations
 - Minimum/maximum dimensions, thickness, and weight (DMM 243)
 - Aspect ratio requirements (length ÷ height: 1.3–2.5 for letters)
@@ -35,6 +37,7 @@ international mail classes.
 - Address block placement, OCR read zone, barcode clear zone
 
 ### Addressing & Data Quality
+
 - CASS Certification™ (address standardization)
 - NCOA (move-update requirement, 95-day rule)
 - ACS (Address Change Service) options
@@ -42,18 +45,21 @@ international mail classes.
 - Full-Service vs. Basic IMb requirements and benefits
 
 ### Presort & Automation
+
 - Presort levels: 5-digit, 3-digit, AADC, Mixed AADC
 - Automation vs. non-automation rates and qualification thresholds
 - Carrier Route (Saturation and High-Density) sortation rules
 - Minimum piece counts per presort level
 
 ### Postage Payment & Permits
+
 - Permit Imprint (bulk indicia) — setup and usage rules
 - Metered mail and precanceled stamps for bulk mailings
 - Commercial Base and Commercial Plus pricing tiers
 - Nonprofit reduced postage authorization (PS Form 3624)
 
 ### Mail Preparation & Documentation
+
 - Bundling, sacking, and palletization standards
 - Separation and labeling requirements (sack labels, pallet labels)
 - Mailing statements: PS Form 3602-R (regular) and 3602-N (nonprofit)
@@ -61,6 +67,7 @@ international mail classes.
 - Co-mingling through authorized co-mail vendors
 
 ### Content & Use Restrictions
+
 - Eligible vs. ineligible content for Marketing Mail (no bills, no checks)
 - Nonprofit content restrictions (related to the org's mission)
 - Hazardous material and restricted content rules specific to Marketing Mail
