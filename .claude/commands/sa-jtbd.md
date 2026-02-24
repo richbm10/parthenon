@@ -5,6 +5,7 @@ description: Crystallize session findings into validated JTBD statements. Run af
 Invoke the `software-analyst` sub-agent to produce JTBD statements.
 
 The agent will:
+
 1. Summarize the confirmed root cause
 2. Draft 1–3 JTBD statements in canonical format
 3. Validate each with the stakeholder — do not proceed on drafts alone

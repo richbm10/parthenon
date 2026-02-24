@@ -10,6 +10,7 @@ Invoke the `software-analyst` sub-agent to produce a session status report.
 **Topic Under Analysis:** [topic]
 
 ## Completed Phases
+
 - [x/] PHASE 0 — INTAKE
 - [x/] PHASE 1 — 5 WHYS (Root cause: [statement or "pending"])
 - [x/] PHASE 2 — JTBD FRAMING ([n] statements confirmed)
@@ -18,8 +19,10 @@ Invoke the `software-analyst` sub-agent to produce a session status report.
 - [x/] PHASE 5 — SPEC AUTHORED ([file path or "pending"])
 
 ## Open Questions
-| # | Question | Owner | Due |
-|---|----------|-------|-----|
+
+| #   | Question | Owner | Due |
+| --- | -------- | ----- | --- |
 
 ## Confirmed Findings
+
 [root cause, JTBDs, key decisions]

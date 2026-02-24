@@ -8,6 +8,7 @@ Before writing, the agent verifies the pre-write checklist. If any item is
 unchecked, the agent names the blocking item and does NOT write the SPEC.
 
 When all items are checked:
+
 1. Load SPEC template from `.claude/agents/software-analyst/templates/SPEC-template.md`
 2. Populate all sections from session findings
 3. Write to `.claude/agents/software-analyst/specs/SPEC-[YYYY-MM-DD]-[slug].md`
